@@ -1,0 +1,6 @@
+imbalanced-learn
+mlxtend
+missingno
+mlxtend==0.23.1
+imblearn==0.0
+missingno==0.5.2
